@@ -16,12 +16,7 @@ This is the frontend application for the AI Chatbot. It provides a sleek, modern
 - npm or yarn
 
 ## Installation
-
-1. Navigate to the `frontend` directory:
-   ```bash
-   cd frontend
-   ```
-2. Install the dependencies:
+1. Install the dependencies:
    ```bash
    npm install
    ```
